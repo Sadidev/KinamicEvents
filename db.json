@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "eventName": "Asado Kinamic",
+      "eventDate": "4 de Marzo 2022",
+      "imageUrl": "https://enville.com/wp-content/uploads/corporate-catering-en-Ville25.jpg",
+      "id": 1,
+      "going": []
+    },
+    {
+      "eventName": "Desayuno Kinamic",
+      "eventDate": "18 de Febrero 2022",
+      "imageUrl": "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE3XFxcLzA0XFxcLzIxMTUxMTEzXFxcL2Nyb2lzLTEwMjR4NjgyLmpwZWdcIixcIndpZHRoXCI6NzAwLFwiaGVpZ2h0XCI6MzcwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaGVyLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvaGVyXFxcL25vLWltYWdlLnBuZz9pZD1iNmY4NGQ2MjdiNDExNGYwMGY1MFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI3ZTc3NmQzMDI1MDgyZGRiYTUzMWE5NzJiNDA4MjMwNmVlNmY4ZGI3In0=/crois-1024x682.jpeg",
+      "id": 2
+    },
+    {
+      "eventName": "Master Kef",
+      "eventDate": "11 de Marzo 2022",
+      "imageUrl": "https://cadena100-cdnmed.agilecontent.com/resources/jpg/8/6/1593957675668.jpg",
+      "id": 3
+    },
+    {
+      "eventName": "Kinamic Ted Talks",
+      "eventDate": "4 de Marzo 2022",
+      "imageUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/052c8a00-db78-4122-b673-4355cfb7d06a/TreborScholz_2021-embed.jpg",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "admin",
+      "password": "admin123",
+      "id": 1
+    },
+    {
+      "name": "guest",
+      "password": "guest",
+      "id": 2
+    }
+  ]
+}
